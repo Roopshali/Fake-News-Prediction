@@ -14,5 +14,7 @@ Our aim is to predict whether a news is fake or not using Logic Regression Model
 A statistical analysis approach called logistic regression uses previous observations from a data set to predict a binary result, such as yes or no. It is a very effective and straightforward machine learning classification technique that was adapted from statistical algorithms.
 The sigmoid function, which has the form of the letter "S," is a mathematical function that has the ability to transfer any real number to a range between 0 and 1. Another name for it is a logistic function.
 
+<img src="sigmoid.png" width="500">
+
 ## Dataset-
 I utilised the Kaggle dataset for this research. Here is where you can download it: https://www.kaggle.com/competitions/fake-news/data
